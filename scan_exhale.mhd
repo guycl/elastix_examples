@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+Orientation = 1 0 0 0 1 0 0 0 1
+CenterOfRotation = 0 0 0
+Offset = -257.40000 -289.71900 -144.00000
+ElementSpacing = 0.97660 0.97660 3.00000
+DimSize = 512 512 114
+AnatomicalOrientation = HFS
+ElementNumberOfChannels = 1
+ElementType = MET_SHORT
+ElementDataFile = scan_exhale.raw
