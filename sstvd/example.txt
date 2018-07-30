@@ -1,1 +1,0 @@
-elastix -p params_sstvd.txt -f scan_inhale.mhd -m scan_exhale.mhd -out .
