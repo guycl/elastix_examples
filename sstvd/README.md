@@ -1,6 +1,6 @@
-# Example of using SSTVD in `elastix`
+# SSTVD Example
 
-_SSTVD parameter file_
+_Example of using SSTVD in `elastix`_
 
 ## Image data
 
@@ -8,7 +8,7 @@ _SSTVD parameter file_
 * Voxel size 1 x 1 x 3 mm
 * Dimension 512 x 512 x 114
 
-The sample CT dataset is available for download (https://github.com/guycl/elastix_examples/sstvd).
+The sample CT dataset is available for download (https://github.com/guycl/elastix_examples/tree/master/sstvd).
 
 ## Application
 
