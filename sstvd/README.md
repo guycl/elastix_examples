@@ -16,7 +16,7 @@ Registration of intra-patient thoracic CT scans in the presence of respiratory m
 
 ## Registration settings
 
-`elastix` version: 4.8
+`elastix` version: 4.9
 
 The SumSquaredTissueVolumeDifference metric was implemented in `elastix` during the course of this work.
 
