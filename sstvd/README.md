@@ -20,7 +20,7 @@ Registration of intra-patient thoracic CT scans in the presence of respiratory m
 
 The SumSquaredTissueVolumeDifference metric was implemented in `elastix` during the course of this work.
 
-Command line call: elastix -p params_sstvd.txt -f scan_inhale.mhd -m scan_exhale.mhd -out ./output
+Command line call: elastix -p par0054_sstvd.txt -f scan_inhale.mhd -m scan_exhale.mhd -out ./output
 
 ## Published in
 
